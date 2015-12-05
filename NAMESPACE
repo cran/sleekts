@@ -1,0 +1,6 @@
+export("sleek")
+importFrom("stats","ts")
+importFrom("stats", "is.ts")
+importFrom("stats", "median")
+importFrom("stats", "start")
+importFrom("stats", "frequency")
